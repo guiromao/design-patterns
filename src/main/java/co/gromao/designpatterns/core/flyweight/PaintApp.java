@@ -3,7 +3,7 @@ package co.gromao.designpatterns.core.flyweight;
 public class PaintApp {
 
     public void paintShapes(int numberOfShapes) {
-        Shape shape = null;
+        Shape shape;
 
         for (int i = 0; i < numberOfShapes; i++) {
             if (i % 2 == 0) {
