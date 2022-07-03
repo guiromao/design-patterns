@@ -26,7 +26,8 @@ public class Game implements Cloneable {
         return game;
     }
 
-    @Override public String toString() {
+    @Override
+    public String toString() {
         return "Game{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
