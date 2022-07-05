@@ -21,3 +21,13 @@ p
 @src/main/java/co/gromao/designpatterns/core/decorator/Pizza.java,b\f\bf2b2e82e9389e592a7ec7f648d2a8ebd0da1b69
 s
 Csrc/main/java/co/gromao/designpatterns/core/command/Television.java,0\6\06fe7fe3dd6f860eefa24d559a70a337dc12e659
+o
+?src/main/java/co/gromao/designpatterns/core/proxy/Customer.java,b\1\b13a99758f5616b18a6a70c71b35e26f94f252a1
+l
+<src/main/java/co/gromao/designpatterns/core/proxy/Order.java,4\b\4bc93ca18dd232334c132269f9d3eb8856605402
+s
+Csrc/main/java/co/gromao/designpatterns/core/proxy/CustomerImpl.java,f\b\fb37816daae5172b09da89ca2e4752a0c65be94b
+x
+Hsrc/main/java/co/gromao/designpatterns/core/proxy/CustomerProxyImpl.java,1\e\1e050083bdb3ccf7c422bf01d9c74fc146b2da58
+k
+;src/main/java/co/gromao/designpatterns/core/proxy/Main.java,8\f\8f5979343193a297e07f7ed3a367a3be1f5ded4a
